@@ -1,0 +1,6 @@
+shift media-releases to General folder
+language dropdown
+sitemap
+merge map and dropdown data
+footprint map vue component
+recreate in nuxt

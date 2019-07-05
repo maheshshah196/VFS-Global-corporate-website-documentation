@@ -1,0 +1,23 @@
+for more info about styles go to “Style” section
+for more info about icons go to “Icons” section
+for more info about footprint map, go to “Footprint Map” section
+for more info about browser compatibility, go to “Browser Compatibility” section
+for more info about flags, go to “Flags” section
+to see html page in browser, go to “Run, Development, Build & Upload” section
+to do any changes in any js file, go to “Run, Development, Build & Upload” section
+To know more about structure about website from javascript perspective, go to “Javascript Structure”
+for more info about how it is generated automatically, go to “Run, Development, Build & Upload” section
+for more info about why and how it is getting replaced, go to “Run, Development, Build & Upload” section
+for more info about this data, go to “Content/Data Changes” section
+to upload files on demo server, go to “Run, Development, Build & Upload" section
+To know about how to run and update changes in web browser, go to “Run, Development, Build & Upload” section.
+to know more about icons go to “Icons” section
+To know more about solution icons go to “Icons” section.
+For more info about stats data, go to “Content/Data Changes > Stats Data” section
+For more info about email obfuscation, go to “Content/Data Changes > Email Obfuscation” section
+For more info about v-dynamic-html, go to “Javascript Structure”
+For more info on why we need selenium webdriver, go to “Build” section.
+
+
+for more info read comments in vfs-global.js file
+for more info read comments in vue-app.js file
