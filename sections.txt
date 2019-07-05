@@ -1,4 +1,3 @@
-test
 Folder Structure and Files
 Content/Data Changes
 	Stats Data
