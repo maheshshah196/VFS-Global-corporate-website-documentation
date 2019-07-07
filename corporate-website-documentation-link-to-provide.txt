@@ -17,6 +17,9 @@ For more info about stats data, go to “Content/Data Changes > Stats Data” sectio
 For more info about email obfuscation, go to “Content/Data Changes > Email Obfuscation” section
 For more info about v-dynamic-html, go to “Javascript Structure”
 For more info on why we need selenium webdriver, go to “Build” section.
+for more info on build, go to “Build” section
+for more info on how to upload, go to “Upload” section.
+For more info on vue components go to “Javascript Structure” section
 
 
 for more info read comments in vfs-global.js file

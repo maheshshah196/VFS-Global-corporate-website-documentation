@@ -1,3 +1,5 @@
+Technology used
+Browser Compatibility
 Folder Structure and Files
 Content/Data Changes
 	Stats Data
@@ -7,9 +9,8 @@ Run, Development, Build & Upload
 Flags
 Icons
 Grid System
-Browser Compatibility
-Javascript Structure
 Styles
+Javascript Structure
 Milestones
 Footprint Map
 Enhancements
